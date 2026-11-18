@@ -1,7 +1,9 @@
 ﻿# C Programming Semester Assignment
 
 **Student:** Achyut Tiwari  
-**Course:** Programming using C (`CSA-DSM-111`)  
+**Enrollment No.:** Y26170502
+**Semester/Year** 1 / 1
+**Course:** Bachelor of Computer Applications
 **Institution:** Dr. Harisingh Gour Vishwavidyalaya, Sagar  
 
 ## Repository Overview
